@@ -796,7 +796,7 @@ BrookhavenTab:Button({
     Desc = "Hub principal para Brookhaven",
     Locked = false,
     Callback = function()
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/ndark5243-arch/Linuxv2/refs/heads/main/Main.txt"))()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/puppetn89-dotcom/Linux-v2/refs/heads/main/Main.txt"))()
     end
 })
 
